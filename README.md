@@ -16,6 +16,7 @@ As soon as you make a commit, you can open a pull request and start a discussion
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+
 3b. To create a pull request:
 -  Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
 -  Select the branch you made, hello-world-branch, to compare with master (the original).
@@ -24,7 +25,7 @@ You can even open pull requests in your own repository and merge them yourself. 
 -  Give your pull request a title and write a brief description of your changes.
 -  When you’re done with your message, click Create pull request!
 -  Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
--  
+
 3c. The actual MERGE Step: Merge the branch into Main:
 - In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
 - Click the green Merge pull request button to merge the changes into master.
